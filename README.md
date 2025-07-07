@@ -60,6 +60,9 @@ python src/main.py
    - If confirmed in time, files are decrypted
    - Otherwise, all files are deleted
 
+## Demo (Screenshot)
+![SimLock:Example](./demo.png)
+
 
 ##  Project Structure
 
